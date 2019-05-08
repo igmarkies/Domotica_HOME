@@ -8,7 +8,7 @@ uint8_t buf[VW_MAX_MESSAGE_LEN];
 uint8_t buflen = VW_MAX_MESSAGE_LEN;
 
 int FUNCTIE = 0;
-int ID = 0x40;
+int ID = 0x40;                        // ID main module
 int DEST = 0;
 int LRC = 0;
 
