@@ -1,1 +1,0 @@
-The build-up for the software with transmittion message.
